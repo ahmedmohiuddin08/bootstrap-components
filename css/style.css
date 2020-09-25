@@ -1,0 +1,29 @@
+body {
+  background-color: fff;
+}
+
+.alert-indigo {
+  background-color: #00bcd4;
+}
+.yellow {
+  background-color: #ede682;
+}
+.yellow-one {
+  background-color: #f78259;
+  color: #fff;
+}
+.badge-custom {
+  background-color: #4f8a8b;
+}
+
+.box-continental {
+  width: 100%;
+  max-height: 300px;
+  object-fit: cover;
+}
+.box-continental-1 {
+  width: 100%;
+  max-height: 250px;
+  object-fit: cover;
+  margin: 5px;
+}
